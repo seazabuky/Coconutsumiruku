@@ -5,7 +5,7 @@
 - make with Unity Engine
 - use MySQL to store data (user,password,score,time)
 
-Full Version: [Click]([https://drive.google.com/file/d/1IzK6lWxXKGMJDUDQcq4Dq8bqbi_ZtPeQ/view?usp=sharing](https://drive.google.com/drive/folders/1suoXiMopr3ewnDlZdx88mnGzsOU-FsPN?usp=share_link))
+Full Version: [Click](https://drive.google.com/drive/folders/1suoXiMopr3ewnDlZdx88mnGzsOU-FsPN?usp=share_link)
 
 
 ## Implement
