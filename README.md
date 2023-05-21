@@ -4,7 +4,7 @@
 - 2D platformer
 - make with Unity Engine
 - use MySQL to store data (user,password,score,time)
-
+In GITHUB have Script Only
 Full Version: [Click](https://drive.google.com/drive/folders/1suoXiMopr3ewnDlZdx88mnGzsOU-FsPN?usp=share_link)
 
 
